@@ -1,5 +1,8 @@
 #Создай собственный Шутер!
 #тест
+
+#суперкрутоеприложение
+
 from pygame import *
 from random import randint
 mixer.init()
